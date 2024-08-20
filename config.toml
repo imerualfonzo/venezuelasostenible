@@ -92,7 +92,7 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   
   [[params.friend_link]]
-  title = "Conoce a Imerú Alfonzo"
+  title = "somos Venezuela Sostenible"
   href =  "https://imerualfonzo.com"
 
   #[[params.bookmark_link]]
