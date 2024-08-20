@@ -22,13 +22,13 @@ home = ["HTML", "RSS", "Algolia"]
 
 
 [params]
-  header_image = "img/venezuelasostenible.jpg"
+  header_image = "img/roraima-venezuelasostenible.webp"
   SEOTitle = "Creamos una nueva Venezuela"
   description = "Dedicado a las personas amantes de la Naturaleza, activas, este portal es una manera de llegar hasta donde siempre has querido, podemos hacer la diferencia de un mejor futuro... un nuevo estilo de vida."
   keyword = "naturaleza, ambiente, Venezuela, desarrollo sostenible, supervivencia, imeru alfonzo, politica, ecoturismo, geologia, democracia"
   slogan = "Construyamos... un nuevo estilo de vida"
 
-  image_404 = "img/404-bg.jpg"
+  image_404 = "img/404-bg.webp"
   title_404 = "Llegaste a un páramo sin conocimiento :("
   omit_categories = false
 
