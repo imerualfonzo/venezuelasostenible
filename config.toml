@@ -6,7 +6,7 @@ languageCode = "es-ve"
 disqusShortname = "imerualfonzo"
 googleAnalytics = "imerualfonzo"
 preserveTaxonomyNames = true
-paginate = 10 #frontpage pagination
+paginate = 7 #frontpage pagination
 hasCJKLanguage = true
 
 # Urls
@@ -127,7 +127,7 @@ params = ["categories", "tags", "regiones"]
 
 [markup]
   [markup.tableOfContents]
-    endLevel = 3
+    endLevel = 4
     startLevel = 1
   [markup.highlight]
     style = "dracula"

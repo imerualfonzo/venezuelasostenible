@@ -6,7 +6,7 @@ date:        2024-06-01
 author:      "Imerú Alfonzo Hernández"
 image:       "/img/title-venezuela-ecohistoria.webp"
 tags:        ["bienestar","ecologistas","Ambiente","historia","Venezuela"]
-categories:  ["Política Ambiental","Ambientalismo"]
+categories:  ["Ambientalismo"]
 draf: false
 ---
 ## La Historia del Movimiento Ambiental en Venezuela: Un Recorrido por Luchas y Transformaciones

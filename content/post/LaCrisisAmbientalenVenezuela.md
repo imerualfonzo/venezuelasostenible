@@ -6,7 +6,7 @@ date:        2020-01-03
 author:      "Imerú Alfonzo Hernández"
 image:       "/img/title-crisis-ambiental.webp"
 tags:        ["guayana","ecocidio","Ambiente","Desarrollo Sostenible","Venezuela"]
-categories:  ["Política Ambiental","Ambientalismo"]
+categories:  ["Política Ambiental"]
 draf: false
 ---
 La crisis ambiental que azota a Venezuela es un reflejo de un modelo político insostenible que ha privilegiado la explotación de los recursos naturales a corto plazo, en detrimento de la protección del ambiente y el bienestar de la población. La inacción estatal, la corrupción y la falta de políticas ambientales coherentes han llevado al país a un punto de inflexión, donde los ecosistemas se degradan a un ritmo acelerado y la salud de millones de venezolanos se ve comprometida.
@@ -21,9 +21,9 @@ En el Mar Caribe, los derrames de petróleo también son frecuentes, poniendo en
 
 #### 2. Explotación Minera Descontrolada: El Arco Minero del Orinoco
 
-El Arco Minero del Orinoco, Ley espuria del 30 de Diciembre del año 2015 publicado en Gaceta Extraordinaria el Decreto con Rango, Valor y Fuerza de Ley Orgánica que reserva al estado las actividades de exploración y extracción de Oro y “Demás Minerales Estratégicos” bajo número 2165. Es una vasta región rica en naturaleza y minerales, que se ha convertido en un símbolo de la explotación indiscriminada de los recursos naturales en Venezuela. La minería ilegal, facilitada por la falta de control estatal y la corrupción, ha provocado la deforestación de grandes extensiones de bosque, la trata de personas, la contaminación de ríos y la violación de los derechos de las comunidades indígenas. La utilización de mercurio en los procesos de extracción ha contaminado los suelos y las aguas, poniendo en riesgo la salud de las poblaciones locales.
+El [Arco Minero del Orinoco](/post/elarcominerodelorinoco/), Ley espuria del 30 de Diciembre del año 2015 publicado en Gaceta Extraordinaria el Decreto con Rango, Valor y Fuerza de Ley Orgánica que reserva al estado las actividades de exploración y extracción de Oro y “Demás Minerales Estratégicos” bajo número 2165. Es una vasta región rica en naturaleza y minerales, que se ha convertido en un símbolo de la explotación indiscriminada de los recursos naturales en Venezuela. La minería ilegal, facilitada por la falta de control estatal y la corrupción, ha provocado la deforestación de grandes extensiones de bosque, la trata de personas, la contaminación de ríos y la violación de los derechos de las comunidades indígenas. La utilización de mercurio en los procesos de extracción ha contaminado los suelos y las aguas, poniendo en riesgo la salud de las poblaciones locales.
 
-La priorización de los intereses económicos sobre los ambientales han abierto una caja de Pandora, donde las autoridades locales se sienten con discrecionalidad para hacer explotaciones de recursos sin el cumplimiento de la norma, el cuidado y resguardo del patrimonio común (resolución Nº 336 del 13 de septiembre del 2018 de Gaceta Oficial 443.281). Un ejemplo patente en TODAS las entidades de Venezuela es la explotación de minerales no-metálicos en áreas cercanas a causes de ríos o zonas protegidas, principalmente lideradas por Alcaldías y empresas relacionas a Misión Vivienda.
+La priorización de los intereses económicos sobre los ambientales han reabierto una caja de Pandora, si recordamos el caso del [Caño Mánamo](/post/elcierredel-canomanamo/), donde las autoridades locales se sienten con discrecionalidad para hacer explotaciones de recursos sin el cumplimiento de la norma, el cuidado y resguardo del patrimonio común (resolución Nº 336 del 13 de septiembre del 2018 de Gaceta Oficial 443.281). Un ejemplo patente en TODAS las entidades de Venezuela es la explotación de minerales no-metálicos en áreas cercanas a causes de ríos o zonas protegidas, principalmente lideradas por Alcaldías y empresas relacionas a Misión Vivienda.
 
 #### 3. Gestión Inadecuada de Desechos Sólidos: Un Problema Sin Solución
 

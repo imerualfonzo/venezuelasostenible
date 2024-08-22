@@ -1,12 +1,12 @@
 ---
-title:       "La Crisis Ambiental en Venezuela"
+title:       "Pliego Nacional de Conflictos Ambientales"
 subtitle:    "Reflejo directo de un modelo criminal insostenible"
 description: "Prueba patente de la negligencia estatal y la priorización de intereses económicos a corto plazo sobre la protección del ambiente y el descuido de la salud de la población"
-date:        2016-03-03
+date:        2018-03-03
 author:      "Imerú Alfonzo Hernández"
 image:       "/img/title-pliego-ambiental.webp"
 tags:        ["crisis","ecocidio","Ambiente","Desarrollo Sostenible","Venezuela"]
-categories:  ["Política Ambiental","Ambientalismo"]
+categories:  ["Política Ambiental"]
 draf: false
 ---
 Nosotros los ciudadanos venezolanos conscientes y preocupados por la adversa situación ambiental y ecológica que padece el país, suscribimos este pliego nacional de conflicto que más allá de exigir el cumplimiento de una serie de reivindicaciones ambientales y resolver las continuas violaciones a nuestro contrato social en materia de ambiente, ecología y contrario completamente a los objetivos del Desarrollo Sostenible, buscamos accionar y declarar que el régimen armado y usurpador imperante en nuestro territorio es responsable por complicidad, por asociación, por negligencia, por impericia, por incapacidad y en muchos casos de forma criminal y directa de gran parte los pasivos ambientales y de las violaciones al espíritu de la Constitución, al articulado de esta y de buena parte de las Leyes relacionadas con la materia ambiental.
@@ -21,7 +21,7 @@ Por ello exigimos como venezolanos facultados y amparados por los Artículos 51,
 
 - La estabilidad Ambiental será preponderante para mantener a los ciudadanos saludables como lo exigen los Artículos 83 y 84, los incumplimientos del régimen actual han propiciado la reaparición de enfermedades erradicadas hace décadas, sumado a la negativa de mantener registros epidemiológicos confiables que hace imposible el control de vectores y establecimientos de estrategias de reducción de los diferentes contagios.
 
-- El modelo político autoritario, antidemocrático y el sistema económico fracasado son expresiones terminales del agotamiento rentista petrolero. Esta visión extractivista degeneró en un inviable modelo minero expresado en el írrito decreto del Arco Minero del Orinoco y los posteriores casos que han seguido desarrollando con participación de grupos terrorista internacionales violando los Artículos 19, 25, 138 y 150.
+- El modelo político autoritario, antidemocrático y el sistema económico fracasado son expresiones terminales del agotamiento rentista petrolero. Esta visión extractivista degeneró en un inviable modelo minero expresado en el írrito decreto del [Arco Minero del Orinoco](/post/elarcominerodelorinoco/) y los posteriores casos que han seguido desarrollando con participación de grupos terrorista internacionales violando los Artículos 19, 25, 138 y 150.
 
 - Venezuela requiere de un cambio profundo en lo político, económico, social, territorial y ambiental que, sustentado en sus condiciones como país megabiodiverso y climáticamente vulnerable, propicie el desarrollo sostenible.
 

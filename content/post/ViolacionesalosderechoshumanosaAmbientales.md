@@ -6,7 +6,7 @@ date:        2020-03-03
 author:      "Imerú Alfonzo Hernández"
 image:       "/img/title-estado-fallido.webp"
 tags:        ["crisis","ecocidio","Ambiente","Estado Fallido","Venezuela"]
-categories:  ["Política","Ambientalismo"]
+categories:  ["Política Ambiental"]
 draf: false
 ---
 <p align="right">Caracas; 30 de Octubre de 2020</p>
@@ -15,7 +15,7 @@ Atención: **Asamblea Nacional de la República de Venezuela**
 
 En atención a la petición a nuestro equipo con referencia porqué consideramos a **Venezuela,Un Estado Fallido**, Remitimos este resumen ejecutivo para su consideración.
 
-### **Violaciones a los derechos humanos ambientales y a la normativa legal ambiental vigente en Venezuela.**
+## **Violaciones a los derechos humanos ambientales y a la normativa legal ambiental vigente en Venezuela.**
 
 ### [Derecho a un ambiente sano](Derecho a un Ambiente Sano):
 
@@ -41,13 +41,7 @@ En los últimos 2 años se han producido más de 70 derrames de consideración e
 
 Otra situación de gravedad inconmensurable es el mal estado de las lagunas de Lodos Rojos Cáusticos de las empresas básicas de Guayana que amenazan con destruir no solo los ecosistemas de la parte baja del río más importante de Venezuela , Río Orinoco, si no en afectar el abastecimiento de Agua Potable de tres estados de Venezuela y eliminar una fuente primordial de proteínas a los estados Bolívar, Monagas y Delta Amacuro, así como afectar a Trinidad y Tobago y al Mar Caribe en el caso de un derrame como los que han estado en puerta los últimos años.
 
-
-
-
-
-
   <center><p>Alfonzo-Hernández, Imerú</p></center>
-
 
   <center><p>Responsable Nacional del Movimiento Ecología con Voluntad.
 

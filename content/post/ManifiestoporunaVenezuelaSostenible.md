@@ -6,7 +6,7 @@ date:        2024-07-28
 author:      "Imerú Alfonzo Hernández"
 image:       "/img/title-manifiento-venezuelasostenible.webp"
 tags:        ["bienestar","ecologistas","Ambiente","Desarrollo Sostenible","Venezuela"]
-categories:  ["Política Ambiental","Ambientalismo"]
+categories:  ["Política Ambiental"]
 draf: false
 ---
 ## El Bienestar Sostenible

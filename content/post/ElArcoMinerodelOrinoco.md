@@ -9,11 +9,11 @@ tags:        ["guayana","ecocidio","Ambiente","Desarrollo Sostenible","Venezuela
 categories:  ["Ambientalismo"]
 draf: false
 ---
-<center> Imerú Alfonzo Hernández 1,3,4</center>
+<center> Imerú Alfonzo Hernández </center>
 
 1. Museo Geológico Dr. José Royo y Gómez, Facultad de Ingeniería. Universidad Central de Venezuela
-3. Movimiento Ecología con Voluntad, Voluntad Popular Activistas
-4. Asociación Nacional de Ecodefensores
+2. Movimiento Ecología con Voluntad, Voluntad Popular Activistas
+3. Asociación Nacional de Ecodefensores
 
 **El Arco Minero del Orinoco, Cinturón de la muerte del norte de Suramerica**
 
